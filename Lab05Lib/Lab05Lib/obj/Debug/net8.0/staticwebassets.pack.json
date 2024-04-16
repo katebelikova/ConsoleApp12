@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Lab05Lib\\Lab05Lib\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Lab05Lib.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Lab05Lib.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Lab05Lib\\Lab05Lib\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\Lab05Lib\\Lab05Lib\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Lab05Lib.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Lab05Lib.props",
+      "PackagePath": "build\\Lab05Lib.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Lab05Lib.props",
+      "PackagePath": "buildMultiTargeting\\Lab05Lib.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Lab05Lib.props",
+      "PackagePath": "buildTransitive\\Lab05Lib.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
