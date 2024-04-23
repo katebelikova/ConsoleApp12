@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\VS\Lab05Lib)\Lab05Lib)\bin\Debug\Lab05Lib).dll
+C:\Users\User\source\repos\VS\Lab05Lib)\Lab05Lib)\bin\Debug\Lab05Lib).pdb
+C:\Users\User\source\repos\VS\Lab05Lib)\Lab05Lib)\obj\Debug\Lab05Lib).csproj.AssemblyReference.cache
+C:\Users\User\source\repos\VS\Lab05Lib)\Lab05Lib)\obj\Debug\Lab05Lib).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\VS\Lab05Lib)\Lab05Lib)\obj\Debug\Lab05Lib).dll
+C:\Users\User\source\repos\VS\Lab05Lib)\Lab05Lib)\obj\Debug\Lab05Lib).pdb
